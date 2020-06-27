@@ -1,0 +1,9 @@
+{
+  "name": "react-skip-first-effect",
+  "version": "1.0.1",
+  "description": "Simple react effect hook which skip the initial rendering",
+  "main": "index.js",
+  "repository": "https://github.com/midnightcoder-pro/react-skip-first-effect",
+  "author": "midnightcoder",
+  "license": "MIT"
+}
